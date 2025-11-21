@@ -1,0 +1,50 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Build and dependencies
+node_modules
+dist
+dist-ssr
+build
+.cache
+.temp
+coverage
+
+# Local environment files
+.env.*.local
+.env.development.local
+.env.production.local
+.env.test.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.iml
+
+# OS-specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+
+
+
+
+
+config.bat
+temp_auto_push.bat
+temp_interactive_push.bat
+.env
